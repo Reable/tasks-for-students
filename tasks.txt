@@ -1,0 +1,124 @@
+Вариант 1)
+1)https://www.codewars.com/kata/554e4a2f232cdd87d9000038
+2)https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec
+3)https://www.codewars.com/kata/5541f58a944b85ce6d00006a
+
+Вариант 2)
+1)https://www.codewars.com/kata/56747fd5cb988479af000028
+2)https://www.codewars.com/kata/541c8630095125aba6000c00
+3)https://www.codewars.com/kata/5508249a98b3234f420000fb
+
+Вариант 3)
+1)https://www.codewars.com/kata/5656b6906de340bd1b0000ac
+2)https://www.codewars.com/kata/5266876b8f4bf2da9b000362
+3)https://www.codewars.com/kata/5541f58a944b85ce6d00006a
+
+Вариант 4)
+1)https://www.codewars.com/kata/5467e4d82edf8bbf40000155
+2)https://www.codewars.com/kata/526571aae218b8ee490006f4
+3)https://www.codewars.com/kata/5508249a98b3234f420000fb
+
+Вариант 5)
+1)https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9
+2)https://www.codewars.com/kata/5287e858c6b5a9678200083c/php
+3)https://www.codewars.com/kata/5541f58a944b85ce6d00006a
+
+Вариант 6)
+1)https://www.codewars.com/kata/56747fd5cb988479af000028
+2)https://www.codewars.com/kata/52de553ebb55d1fca3000371/php
+3)https://www.codewars.com/kata/5508249a98b3234f420000fb
+
+Вариант 7)
+1)https://www.codewars.com/kata/54c27a33fb7da0db0100040e
+2)https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec
+3)https://www.codewars.com/kata/5541f58a944b85ce6d00006a
+
+Вариант 8)
+1)https://www.codewars.com/kata/5467e4d82edf8bbf40000155
+2)https://www.codewars.com/kata/541c8630095125aba6000c00
+3)https://www.codewars.com/kata/5508249a98b3234f420000fb
+
+Вариант 9)
+1)https://www.codewars.com/kata/5656b6906de340bd1b0000ac
+2)https://www.codewars.com/kata/5287e858c6b5a9678200083c/php
+3)https://www.codewars.com/kata/5541f58a944b85ce6d00006a
+
+Вариант 10)
+1)https://www.codewars.com/kata/5467e4d82edf8bbf40000155
+2)https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec
+3)https://www.codewars.com/kata/5508249a98b3234f420000fb
+
+Вариант 11)
+1)https://www.codewars.com/kata/5656b6906de340bd1b0000ac
+2)https://www.codewars.com/kata/5266876b8f4bf2da9b000362
+3)https://www.codewars.com/kata/5726f813c8dcebf5ed000a6b
+
+Вариант 12)
+1)https://www.codewars.com/kata/5656b6906de340bd1b0000ac
+2)https://www.codewars.com/kata/541c8630095125aba6000c00
+3)https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa
+
+Вариант 13)
+1)https://www.codewars.com/kata/54c27a33fb7da0db0100040e
+2)https://www.codewars.com/kata/5287e858c6b5a9678200083c/php
+3)https://www.codewars.com/kata/5726f813c8dcebf5ed000a6b
+
+Вариант 14)
+1)https://www.codewars.com/kata/554e4a2f232cdd87d9000038
+2)https://www.codewars.com/kata/526571aae218b8ee490006f4
+3)https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa
+
+Вариант 15)
+1)https://www.codewars.com/kata/54c27a33fb7da0db0100040e
+2)https://www.codewars.com/kata/5287e858c6b5a9678200083c/php
+3)https://www.codewars.com/kata/5726f813c8dcebf5ed000a6b
+
+Вариант 16)
+1)https://www.codewars.com/kata/554e4a2f232cdd87d9000038
+2)https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec
+3)https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa
+
+Вариант 17)
+1)https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9
+2)https://www.codewars.com/kata/52de553ebb55d1fca3000371/php
+3)https://www.codewars.com/kata/5726f813c8dcebf5ed000a6b
+
+Вариант 18)
+1)https://www.codewars.com/kata/5467e4d82edf8bbf40000155
+2)https://www.codewars.com/kata/541c8630095125aba6000c00
+3)https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa
+
+Вариант 19)
+1)https://www.codewars.com/kata/54c27a33fb7da0db0100040e
+2)https://www.codewars.com/kata/526571aae218b8ee490006f4
+3)https://www.codewars.com/kata/5726f813c8dcebf5ed000a6b
+
+Вариант 20)
+1)https://www.codewars.com/kata/554e4a2f232cdd87d9000038
+2)https://www.codewars.com/kata/5287e858c6b5a9678200083c/php
+3)https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa
+
+
+===================================================================================
+
+Вариант 21) - СЛОЖНЫЙ
+1)https://www.codewars.com/kata/5287e858c6b5a9678200083c/php
+2)https://www.codewars.com/kata/58678d29dbca9a68d80000d7
+
+Вариант 22)
+1)https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec
+2)https://www.codewars.com/kata/58678d29dbca9a68d80000d7
+
+Вариант 23)
+1)https://www.codewars.com/kata/5266876b8f4bf2da9b000362
+2)https://www.codewars.com/kata/58678d29dbca9a68d80000d7
+
+Вариант 24)
+1)https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec
+2)https://www.codewars.com/kata/58678d29dbca9a68d80000d7
+
+Вариант 25)
+1)https://www.codewars.com/kata/5656b6906de340bd1b0000ac
+2)https://www.codewars.com/kata/58678d29dbca9a68d80000d7
+
+===================================================================================
