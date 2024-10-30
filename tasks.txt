@@ -104,21 +104,31 @@
 Вариант 21)
 1)https://www.codewars.com/kata/5287e858c6b5a9678200083c/php
 2)https://www.codewars.com/kata/58678d29dbca9a68d80000d7
+на выбор
+3)https://www.codewars.com/kata/586dd26a69b6fd46dd0000c0
 
 Вариант 22)
 1)https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec
 2)https://www.codewars.com/kata/58678d29dbca9a68d80000d7
+на выбор
+3)https://www.codewars.com/kata/586dd26a69b6fd46dd0000c0
 
 Вариант 23)
 1)https://www.codewars.com/kata/5266876b8f4bf2da9b000362
 2)https://www.codewars.com/kata/58678d29dbca9a68d80000d7
+на выбор
+3)https://www.codewars.com/kata/586dd26a69b6fd46dd0000c0
 
 Вариант 24)
 1)https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec
 2)https://www.codewars.com/kata/58678d29dbca9a68d80000d7
+на выбор
+3)https://www.codewars.com/kata/586dd26a69b6fd46dd0000c0
 
 Вариант 25)
 1)https://www.codewars.com/kata/5656b6906de340bd1b0000ac
 2)https://www.codewars.com/kata/58678d29dbca9a68d80000d7
+на выбор
+3)https://www.codewars.com/kata/586dd26a69b6fd46dd0000c0
 
 ===================================================================================
